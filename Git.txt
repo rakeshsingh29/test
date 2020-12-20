@@ -66,3 +66,26 @@
    66  rm git
    67  git status 
    68  history > Git.txt
+   69  ls
+   70  car Git.txt 
+   71  cat Git.txt 
+   72  git add .
+   73  git status
+   74  git commit -m "git commands"
+   75  git status
+   76  ls
+   77  git push -u origin 
+   78  git log
+   79  git status 
+   80  echo "i have done some changes in file1" > 1
+   81  cat 1
+   82  git status 
+   83  git add .
+   84  git commit -m "file 1 modified"
+   85  git diff 1
+   86  git push
+   87  git log
+   88  git diff 8512481c00b2ec3dee4f8016a47a5b58aabfe0d6
+   89  git diff 1 2
+   90  git status 
+   91  history > Git.txt 
