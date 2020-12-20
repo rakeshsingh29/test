@@ -1,0 +1,68 @@
+    1  ls
+    2  git init
+    3  ls
+    4  ls -lrt
+    5  ls -a
+    6  ls ./.git
+    7  git config --get-all
+    8  git config --list
+    9  git config --local user.name rakesh
+   10  git config --local user.email rakeshk.singh29@gmail.com
+   11  cat .git/config
+   12  git config --global user.name RAKESH
+   13  git config --global user.email rakeshk.singh29@gmail.com
+   14  cat .git/config
+   15  touch 1
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "1 file added"
+   20  git status
+   21  ls /c/user
+   22  cd /c/user
+   23  ls
+   24  pwd
+   25  cd /c/users/eabefgm
+   26  ls
+   27  ls -l
+   28  ls -a
+   29  ls -la
+   30  cat .gitconfig 
+   31  cd /c/Users/eabefgm/Desktop/GitDemo/Gittest
+   32  pwd
+   33  git remote add origin https://github.com/rakeshsingh29/Devops.git
+   34  git push -u origin master 
+   35  git remote add origin https://github.com/rakeshsingh29/Devops.git
+   36  git push -u origin master
+   37  git push -u origin master 
+   38  git push -u origin master 
+   39  history 
+   40  cd ..
+   41  mkdir Dev1
+   42  cd Dev1
+   43  ls
+   44  git clone https://github.com/rakeshsingh29/Devops.git
+   45  ls -al
+   46  cd Devops/
+   47  ls
+   48  ls -al
+   49  git status 
+   50  cd ..
+   51  cd ..
+   52  rm -rf Dev1
+   53  cd Gittest/
+   54  ls
+   55  touch 2
+   56  git status 
+   57  git add .
+   58  git status 
+   59  git commit -m "file 2 added"
+   60  git push -u origin master 
+   61  git log
+   62  echo history > git
+   63  ls
+   64  git status
+   65  cat git
+   66  rm git
+   67  git status 
+   68  history > Git.txt
